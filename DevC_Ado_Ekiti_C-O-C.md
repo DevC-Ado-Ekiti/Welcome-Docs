@@ -17,7 +17,7 @@ Violations of this code of conduct can result:
 
 * Patience: You would be working with a lot of people who are unique in their own way, patience is a virtue that would go a long way for comfort.
 
-* Licensing: Please adhere to licensing rules on any open source project you get to work on under DevC Ado Ekiti.
+* Licensing: Please adhere to licensing rules on any open source project you get to work on under DevC Ado Ekiti..
 
 * Collaboration: You are not generally expected to complete tasks alone, reach out and get other team members involved.
 
