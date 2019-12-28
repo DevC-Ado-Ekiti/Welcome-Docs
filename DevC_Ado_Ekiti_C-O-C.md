@@ -31,9 +31,6 @@ _Participants asked to stop any harassing behavior are expected to comply immedi
 
 * Participate. Join in on discussions, show up for in-person meetings regularly, offer feedback, and help implement that feedback.
 
-* Step down considerately. If you have some form of responsibility in your community, be aware of your own constraints. If you know that a new job or personal situation will limit your time, find someone who can take over for you and transfer the relevant information (contacts, passwords, etc.) for a smooth transition.
-
-* Basic etiquette for online discussions. Do not send messages to a big list that only need to go to one person. Keep off topic conversations to a minimum. Don’t spam by advertising or promoting personal projects which are off topic.
 
 These guidelines are modeled after the [Ubuntu Code of Conduct](http://www.ubuntu.com/project/about-ubuntu/conduct) and the [O.S.C.Africa - Code of Conduct](https://github.com/oscommunityafrica/docs/blob/master/src/OSCA_Code_of_Conduct.md), It is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify as you wish as long as you give credit to the ubuntu project!
 
