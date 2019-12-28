@@ -39,7 +39,7 @@ All of our active repositories can be found on our [GitHub DevC Ado Ekiti commun
 
 * [ ] If your changes is adding a new feature or will affect users; update the README.md file
 
-* [ ] Make a branch, push your commits, and add a pull request, see [Workflow](##workflow) below.
+* [ ] Make a branch, push your commits, and add a pull request.
 
 ### Checklist - maintainer
 
